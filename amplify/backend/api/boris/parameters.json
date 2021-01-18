@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "boris",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}
