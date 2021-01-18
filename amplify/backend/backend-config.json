@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "boris58a12d05": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
